@@ -64,7 +64,7 @@ header {
 }
 
 @media (min-width:900px){
-  .menu ul {
+  .menu ul{
     max-width: 200px;
     
   }
@@ -220,23 +220,11 @@ gap: 2em;
   width: 240px;
 }
 
-.contato a   {
-  color: black;
-  font-size: 5em;
-  text-decoration: none;
-  text-align: center;
-  transition: text-shadow 1s;
-}
-
-.contato div {
-  margin-top: 80px;
-}
-
 .texto-subtitle h2 {
  text-align: center;
  margin-right: 130px;
 }
 
-.podcast{
-  width: 200px;
+.podcast audio {
+  width: 500px;
 } 
