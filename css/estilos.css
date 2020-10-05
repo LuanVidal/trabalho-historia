@@ -273,7 +273,7 @@ gap: 2em;
 
 @media (min-width: 1150px) {
   .paragrafo{
-    margin-left: -385px;
+    margin-left: -460px;
   }
 }
 
@@ -289,4 +289,24 @@ gap: 2em;
   }
 }
 
+@media (min-width: 1000px) {
+  .autor{
+    margin-left: 80px;
+  }
+}
+
+
+
+@media (min-width: 1000px) {
+  .imagem-livro {
+    margin-top: 100px;
+    margin-left: 480px;
+ }
+}
+
+
+
+
+
+  
 
