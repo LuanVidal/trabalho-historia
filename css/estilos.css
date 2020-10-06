@@ -169,7 +169,7 @@ header {
 
 @media (min-width:1200px) {
   .sobre p {
-  font-size: 1.5em;
+  font-size: 1.3em;
   color: black;
   }
 }
@@ -271,40 +271,17 @@ gap: 2em;
   }
 }
 
-@media (min-width: 1150px) {
-  .paragrafo{
-    margin-left: -460px;
-  }
-}
-
-@media (min-width: 1150px) {
-  .referencia{
-    margin-left: 47px;
-  }
-}
-
-@media (min-width: 1150px) {
-  .aceseso{
-    margin-left: -340px;
-  }
-}
 
 @media (min-width: 1000px) {
-  .autor{
-    margin-left: 80px;
+  #sobre p{
+    text-align: left
   }
+  
 }
 
-
-
-@media (min-width: 1000px) {
-  .imagem-livro {
-    margin-top: 100px;
-    margin-left: 480px;
- }
+.imagem-livro{
+  padding-top: 70px;
 }
-
-
 
 
 
